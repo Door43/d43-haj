@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[haj:home|Door43 (haj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-haj|d43-haj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-haj/archive/master.zip|d43-haj.zip]]
+
+**Recent Changes**
+{{changes>ns = haj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/haj|Ethnologue data]]
+
